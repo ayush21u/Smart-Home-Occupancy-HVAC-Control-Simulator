@@ -1,0 +1,5 @@
+# Smart Home HVAC Configuration
+cooling_threshold=26
+heating_threshold=20
+energy_saving_when_unoccupied=true
+occupancy_timeout=30

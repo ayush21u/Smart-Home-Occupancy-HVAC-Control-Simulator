@@ -1,0 +1,4 @@
+*.o
+smart_home
+test_cases
+hvac_log.txt
